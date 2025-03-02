@@ -34,7 +34,6 @@ No published papers yet
 - *2022.10 - 2022.12* [Computer Network System Design](https://github.com/banwwup/Computer-Network), University of Chinese Academy of Sciences.
 - *2021.04 - 2021.06* [Design of an AI for Gomoku](https://github.com/banwwup/Gomoku), University of Chinese Academy of Sciences.
 
-
 # 💬 Public affairs
 - *2021.07 - 2022.12*, Dance Club, University of Chinese Academy of Sciences. 
 
