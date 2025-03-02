@@ -10,10 +10,10 @@ main:
     url: "/#-publications"
 
   - title: "Projects"
-    url: "/#-Projects"
+    url: "/#-projects"
 
   - title: "Public affairs"
-    url: "/#-Public affairs"
+    url: "/#-public affairs"
 
   - title: "Internships"
     url: "/#-internships"
