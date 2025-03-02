@@ -6,14 +6,14 @@ main:
   - title: "Educations"
     url: "/#-educations"
     
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Projects"
+    url: "/#-Projects"
+
+  - title: "Public affairs"
+    url: "/#-Public affairs"
 
   - title: "Internships"
     url: "/#-internships"
