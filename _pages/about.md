@@ -29,16 +29,15 @@ You can find my CV here: [Ban Wenwei's Curriculum Vitae](../assets/CV_Wenwei_Ban
 # 📝 Publications 
 No published papers yet
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Projects
+- *2023.09 - 2023.12* [Design of a Functional CPU Processor](https://github.com/banwwup/CPU),University of Chinese Academy of Sciences. 
+- *2022.10 - 2022.12* [Computer Network System Design](https://github.com/banwwup/Computer-Network), University of Chinese Academy of Sciences.
+- *2021.04 - 2021.06* [Design of an AI for Gomoku](https://github.com/banwwup/Gomoku), University of Chinese Academy of Sciences.
 
 
+# 💬 Public affairs
+- *2021.07 - 2022.12*, Dance Club, University of Chinese Academy of Sciences. 
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2024.01 - 2024.05*, Institute of Computing Technology, Chinese Academy of Sciences, Research Intern, advised by [Prof. Dongbo Bu](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496584.html).
