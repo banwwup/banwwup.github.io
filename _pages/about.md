@@ -20,6 +20,7 @@ redirect_from:
 
 # 🔥 About me
 Hi, I'm Ban Wenwei(班文蔚）, a graduate in Computer Science and Technology from [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/), fortunate to be advised by [Prof. Fei Sun](https://ofey.me/). My research interests lie in recommendation algorithms and Large Language Models (LLM). Excited to connect and collaborate with fellow enthusiasts! 
+You can find my CV here: [Ban Wenwei's Curriculum Vitae](../assets/CV_Wenwei_Ban.pdf).
 
 
 # 📝 Publications 
@@ -43,8 +44,8 @@ Hi, I'm Ban Wenwei(班文蔚）, a graduate in Computer Science and Technology f
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.07 *, B.E. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
