@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Wenwei Ban"
-  avatar           : "512ban.png"
+  avatar           : "images/512ban.png"
   bio              : "Master student at ICT, CAS"
   location         : "Beijing, China"
   employer         :
