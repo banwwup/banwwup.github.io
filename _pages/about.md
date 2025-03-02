@@ -23,7 +23,7 @@ Hi, I'm Ban Wenwei(班文蔚）, a graduate in Computer Science and Technology f
 You can find my CV here: [Ban Wenwei's Curriculum Vitae](../assets/CV_Wenwei_Ban.pdf).
 
 # 📖 Educations
-- *2020.09 - 2024.07 *, B.E. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
+- *2020.09 - 2024.07*, B.E. in Computer Science, School of Computer Science and Technology, University of Chinese Academy of Sciences.
 
 
 # 📝 Publications 
