@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🔥 About me
-Hi, I'm Ban Wenwei(班文蔚）, a graduate in Computer Science and Technology from [University of Chinese Academy of Sciences](https://www.ucas.edu.cn/). My research interests lie in recommendation algorithms and Large Language Models (LLMs). Excited to connect and collaborate with fellow enthusiasts! 
+Hi, I'm Ban Wenwei(班文蔚）, a master student at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),supervised by Prof. Qi Cao and [Prof. Fei Sun](https://ofey.me/). My research interests lie in recommendation algorithms and Large Language Models (LLMs). Excited to connect and collaborate with fellow enthusiasts! 
 You can find my CV here: [Ban Wenwei's Curriculum Vitae](../assets/CV_Wenwei_Ban.pdf).
 
 # 📖 Educations
@@ -27,7 +27,7 @@ You can find my CV here: [Ban Wenwei's Curriculum Vitae](../assets/CV_Wenwei_Ban
 
 
 # 📝 Publications 
-No published papers yet
+No published papers yet.
 
 # 🎖 Projects
 - *2023.09 - 2023.12* [Design of a Functional CPU Processor](https://github.com/banwwup/CPU),University of Chinese Academy of Sciences. 
@@ -39,5 +39,6 @@ No published papers yet
 
 
 # 💻 Internships
-- *2024.01 - 2024.05*, Institute of Computing Technology, Chinese Academy of Sciences, Research Intern, advised by [Prof. Dongbo Bu](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496584.html).
-
+- *2024.01 - 2024.05*, Institute of Computing Technology, Chinese Academy of Sciences, Research Intern, supervised by [Prof. Dongbo Bu](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496584.html).
+- *2025.03 - Present*, Institute of Computing Technology, Chinese Academy of Sciences, Research Intern, supervised by 
+[Prof. Fei Sun](https://ofey.me/)
