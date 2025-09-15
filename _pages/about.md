@@ -36,7 +36,8 @@ No published papers yet.
 - *2021.04 - 2021.06* [Design of an AI for Gomoku](https://github.com/banwwup/Gomoku), University of Chinese Academy of Sciences.
 
 # 💬 Public affairs
-- *2021.07 - 2022.12*, President of Dance Club, University of Chinese Academy of Sciences. 
+- *2021.07 - 2022.12*, President of Dance Club, University of Chinese Academy of Sciences.
+- *2023*, Outstanding Volunteer of Henan Province
 
 
 # 💻 Internships
