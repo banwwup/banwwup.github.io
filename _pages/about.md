@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 🔥 About me
-Hi, I'm Ban Wenwei(班文蔚）, a master student at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),supervised by [Prof. Fei Sun](https://ofey.me/) and Prof. Qi Cao. My research interests lie in recommendation algorithms and Large Language Models (LLMs). Excited to connect and collaborate with fellow enthusiasts! 
+Hi, I'm Ban Wenwei(班文蔚）, a master student at Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS),supervised by [Prof. Fei Sun](https://ofey.me/) and [Prof. Qi Cao](https://caoqi92.github.io/). My research interests lie in recommendation algorithms and Large Language Models (LLMs). Excited to connect and collaborate with fellow enthusiasts! 
 You can find my CV here: [Ban Wenwei's Curriculum Vitae](../assets/CV_Wenwei_Ban.pdf).
 
 # 📖 Educations
