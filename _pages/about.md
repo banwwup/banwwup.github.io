@@ -43,4 +43,4 @@ No published papers yet.
 # 💻 Internships
 - *2024.01 - 2024.05*, Institute of Computing Technology, Chinese Academy of Sciences, Research Intern, supervised by [Prof. Dongbo Bu](http://www.ict.cas.cn/sourcedb/cn/jssrck/200909/t20090917_2496584.html).
 - *2025.03 - Present*, Institute of Computing Technology, Chinese Academy of Sciences, Research Intern, supervised by 
-[Prof. Fei Sun](https://ofey.me/) and Prof. Qi Cao
+[Prof. Fei Sun](https://ofey.me/) and [Prof. Qi Cao](https://caoqi92.github.io/)
